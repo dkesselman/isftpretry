@@ -1,0 +1,6 @@
+From: "Alerts" <useralerts@mailserver.com>
+To: "Alerts Group" <groupalerts@mailserver.com>
+Subject: Alert - Error on file transfer
+
+These files could not be transfered:
+
