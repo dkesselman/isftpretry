@@ -8,7 +8,7 @@ System Requirements
 -------------------
 
 * Desirable:
-  * IBM i V7R2 or newer (maybe can work con V7R1)
+  * IBM i V7R2 or newer (maybe works on V7R1)
   * YUM (also works with Perzl tools)
   * SSH (it's not mandatory, but really useful)
   
